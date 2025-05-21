@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hey there! I'm Diego</h1>
-
+<h1 align="center"> 🚀 What's up? I'm Diego</h1>
 
 
 <h3 align="center">📫 How to reach me:</h3>
