@@ -1,8 +1,3 @@
-<div align="center">
-
-<h1>🚀 Hi I'm Diego Elián</h1>
-
-
 <h3>💻 Learning</h3>
 
 <p>
